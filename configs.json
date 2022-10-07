@@ -1,0 +1,20 @@
+{
+  "dataset": {
+    "name": "ml-20m",
+    "path": "data",
+    "interactions": "ratings.csv",
+    "binary": true,
+    "pos_threshold": 4,
+    "n_core": 10,
+    "split_method": "fo",
+    "random_state": 2021,
+    "file_format": "csv"
+  },
+  "cache": {
+    "path": "cache",
+    "train_interactions": "train_interactions",
+    "valid_interactions": "valid_interactions",
+    "test_interactions": "test_interactions",
+    "entities": "entities"
+  }
+}
