@@ -5,7 +5,7 @@ Code Implementation of V-A. Tran, et al. *Hierarchical Latent Relation Modeling 
 <br>
 
 [Paper Summary(Korean)](https://nlee208.notion.site/Hierarchical-Latent-Relation-Modeling-for-CML-22551b6d72ac43ba8ccfc5e1b7bb838c)
-
+<br>
 
 ## Brief Summary
 ### Collaborative Metric Learning
@@ -20,6 +20,7 @@ Code Implementation of V-A. Tran, et al. *Hierarchical Latent Relation Modeling 
   - Over-simplification of the user-item relations
   - Each user&item represented with a single mapped vector
   - Does not incorporate any item-item relations
+<br>
 
 ## Hierarchical Latent Relation Modeling for CML
 - CML DL Based approach to learn hierarchical relations of user-item over item-item relations based on the following assumption...
