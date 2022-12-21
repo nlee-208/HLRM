@@ -1,4 +1,4 @@
-# Hierarchical Latent Relation Modeling for Collaborative Metric Learning
+# Hierarchical Latent Relation Modeling for CML
 Code Implementation of V-A. Tran, et al. *Hierarchical Latent Relation Modeling for Collaborative Metric Learning*. In: Proceedings of the 15th ACM Conference on Recommender Systems (RecSys 2021), September 2021.
 
 [Paper](https://arxiv.org/pdf/2108.04655.pdf)
